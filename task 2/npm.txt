@@ -1,0 +1,12 @@
+	
+npm is the world's largest Software Library (Registry) and
+npm is also a software Package Manager and Installer
+
+The name npm (Node Package Manager) stems from when npm first was created as a package manager for Node.js.
+All npm packages are defined in files called package.json.
+
+We can start a node.js file simply typing  on the terminal "npm init"
+
+We can install libraries with npm, 
+eg, If we want to install nodemon, we have to type "npm i nodemon" 
+(i stands for install)

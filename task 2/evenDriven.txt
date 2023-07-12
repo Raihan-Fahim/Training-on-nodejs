@@ -1,0 +1,10 @@
+Event-Driven Programming in Node.js: Node.js makes extensive use of 
+events which is one of the reasons behind its speed when compared to other similar technologies. 
+Once we start a Node.js server, it initializes the variables and functions and then listens for 
+the occurrence of an event.
+
+The principles of this architechture is
+=> A suite of functions for handling the events. These can be either blocking or non-blocking, 
+depending on the implementation.
+
+When a registered event is received, an event loop polls for new events and calls the matching event handler.
