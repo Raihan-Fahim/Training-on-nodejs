@@ -1,0 +1,14 @@
+Task 3. Express.js Framework: Dive into Express.js, a popular web application framework for
+Node.js. Learn how to set up an Express project, handle routes, and use middleware effectively.
+Understand concepts like request-response cycle, routing, and error handling. Use of json files
+for controlling server or service related variables. Use nodemon for rapid development.
+
+Helpful Resources:
+Express.js Guide Routing: https://expressjs.com/en/guide/routing.html
+Express.js Guide Writing middleware for use in Express apps:
+https://expressjs.com/en/guide/writing-middleware.html
+Express.js Guide Using middleware: https://expressjs.com/en/guide/using-middleware.html
+Express.js Guide Error Handling: https://expressjs.com/en/guide/error-handling.html
+Express.js Guide Database integration:
+https://expressjs.com/en/guide/database-integration.html
+Node package: nodemon https://www.npmjs.com/package/nodemon

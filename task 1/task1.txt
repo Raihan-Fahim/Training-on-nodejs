@@ -1,0 +1,9 @@
+Task 1. Basic JavaScript Knowledge: Start by mastering JavaScript fundamentals, including
+variables, data types, control structures, functions, and object-oriented programming concepts.
+Familiarize yourself with modern JavaScript features and syntax.
+
+Helpful Resources:
+FreeCodeCamp: Introduction to JavaScript
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+Mozilla Developer Network (MDN): JavaScript Guide
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide

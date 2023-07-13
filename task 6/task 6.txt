@@ -1,0 +1,9 @@
+Task 6. Data Persistence and Databases: Gain knowledge of working with databases in Node.js
+and Express. Explore SQL databases (e.g., MySQL) and NoSQL databases (e.g., MongoDB).
+
+Helpful Resources:
+w3schools: MySQL Tutorial
+https://www.w3schools.com/MySQL/default.asp
+w3schools: MongoDB Tutorial https://www.w3schools.com/mongodb/
+Node package: Mongoose https://www.npmjs.com/package/mongoose
+Node package: MySQL 2 https://www.npmjs.com/package/mysql2

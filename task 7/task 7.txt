@@ -1,0 +1,13 @@
+Task 7. Middleware and Error Handling: Deepen your understanding of middleware and learn how
+to use third-party middleware packages. Create custom middleware for tasks like authentication,
+input validation, logging, and error handling. Implement proper error responses and error
+logging mechanisms.
+
+Helpful Resources:
+Express.js Documentation: Middleware
+https://expressjs.com/en/guide/using-middleware.html
+The Net Ninja (YouTube): Asynchronous JavaScript Tutorial #11 - Throwing Errors
+https://www.youtube.com/watch?v=AoBSB00vW5A
+Node package: morgan https://www.npmjs.com/package/morgan
+Node package: cors https://www.npmjs.com/package/cors
+Node package: helmet https://www.npmjs.com/package/helmet

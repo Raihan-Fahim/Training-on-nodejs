@@ -1,0 +1,8 @@
+Task 2. Node.js Fundamentals: Deepen your understanding of Node.js by learning about core
+modules, asynchronous programming, event-driven architecture, and the Node Package
+Manager (npm). Practice writing scripts and executing them using Node.js.
+
+Helpful Resources:
+Node.js Documentation: Getting Started https://nodejs.dev/en/learn/
+The Net Ninja (YouTube): Node JS Tutorial for Beginners
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byY

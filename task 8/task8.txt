@@ -1,0 +1,9 @@
+Task 8. Authentication and Authorization: Understand authentication mechanisms like JSON Web
+Tokens (JWT). Implement user registration, login, and password hashing. Secure routes with
+authorization
+
+Helpful Resources:
+Auth0 Blog: Node.js and Express Tutorial: Building and Securing RESTful APIs
+https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/
+Node package: jsonwebtoken https://www.npmjs.com/package/jsonwebtoken
+Node package: bcrypt https://www.npmjs.com/package/bcrypt

@@ -1,0 +1,5 @@
+Task 9. Validation: Validate data using libraries like Joi for input validation.
+Days: 1
+Helpful Resources:
+Joi Documentation: API Reference https://joi.dev/api/
+Node package: Joi https://www.npmjs.com/package/joi

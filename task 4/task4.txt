@@ -1,0 +1,8 @@
+Task 4. Routing and Controllers: Explore advanced routing techniques in Express, such as
+parameterized routes, route modularization, and route handlers (controllers). Build RESTful
+APIs by defining routes for different HTTP methods and connecting them to controller functions.
+
+Helpful Resources:
+Express.js Documentation: Routing https://expressjs.com/en/guide/routing.html
+The Net Ninja (YouTube): Node.js Crash Course Tutorial #11 - Express Router & MVC
+https://www.youtube.com/watch?v=zW_tZR0Ir3Q

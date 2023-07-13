@@ -1,0 +1,6 @@
+Task 5. API Design and Best Practices: Learn API design principles and follow RESTful practices.
+Design resourceful routes, handle CRUD operations, and implement pagination, sorting, and
+filtering. Implement security measures such as input validation, sanitization.
+
+Helpful Resources:
+RESTful API Design Guide: Best Practices https://www.restapitutorial.com/
