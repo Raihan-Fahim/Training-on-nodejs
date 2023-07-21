@@ -1,0 +1,10 @@
+Task 10. Testing: Master testing techniques for your Express APIs. Learn to write unit tests and
+integration tests using testing frameworks like Jest, mocha or chai.
+
+Helpful Resources:
+Mocha Documentation: Getting Started https://mochajs.org/#getting-started
+Chai Documentation: Getting Started https://www.chaijs.com/guide/
+Jest Documentation: Getting Started https://jestjs.io/docs/getting-started
+Node package: jest https://www.npmjs.com/package/jest
+Node package: mocha https://www.npmjs.com/package/mocha
+Node package: chai https://www.npmjs.com/package/chai
